@@ -5,9 +5,7 @@
 [![UI Framework](https://img.shields.io/badge/UI-PyQt5-green.svg)](https://pypi.org/project/PyQt5/)
 [![Deep Learning](https://img.shields.io/badge/AI-YOLO-purple.svg)](https://ultralytics.com/)
 
-**EthoGrid-ToxMate** is a specialized, high-performance desktop application engineered for researchers working with large-volume behavioral data, such as 24-hour recordings from automated systems like **ToxMate**. It provides a massively accelerated, end-to-end workflow to take you from raw, multi-hour videos to final, publication-ready statistical reports and graphs in a fraction of the time.
-
-Every stage of the EthoGrid-ToxMate pipeline is designed to be **transparent, customizable, and efficient**, giving you full scientific control over your high-throughput data.
+**EthoGrid-ToxMate** is a specialized, high-performance desktop application engineered for researchers working with large-volume behavioral data, such as 24-hour recordings from automated systems like **ToxMate**. It provides a massively accelerated, end-to-end workflow to take you from raw, multi-hour videos to final, publication-ready statistical reports and graphs in a fraction of the time. Every stage of the EthoGrid-ToxMate pipeline is designed to be **transparent, customizable, and efficient**, giving you full scientific control over your high-throughput data.
 
 <p align="center">
   <img src="https://github.com/yousaf2018/EthoGrid_Toxmate/blob/main/images/android-chrome-512x512.png" alt="EthoGrid-ToxMate Logo" width="200">
@@ -153,6 +151,7 @@ This application was developed in the **[Laboratory of Professor Chung-Der Hsiao
 
 
 Distributed under the MIT License. See the `LICENSE` file for more information.
+
 
 
 
