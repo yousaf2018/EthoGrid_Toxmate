@@ -11,7 +11,7 @@
   <img src="https://github.com/yousaf2018/EthoGrid_Toxmate/blob/main/images/android-chrome-512x512.png" alt="EthoGrid-ToxMate Logo" width="200">
 </p>
 
-![Tool Overview](https://raw.githubusercontent.com/yousaf2018/EthoGrid/main/images/EthoGridGUI.png)
+![Tool Overview](https://github.com/yousaf2018/EthoGrid_Toxmate/blob/main/images/EthoGridGUI.png)
 *A snapshot of the EthoGrid-ToxMate interface showing a video with an overlaid grid, detections with centroids, a behavior legend, and a multi-tank timeline.*
 
 ---
@@ -151,6 +151,7 @@ This application was developed in the **[Laboratory of Professor Chung-Der Hsiao
 
 
 Distributed under the MIT License. See the `LICENSE` file for more information.
+
 
 
 
