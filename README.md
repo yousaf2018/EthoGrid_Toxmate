@@ -10,7 +10,7 @@
 Every stage of the EthoGrid-ToxMate pipeline is designed to be **transparent, customizable, and efficient**, giving you full scientific control over your high-throughput data.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yousaf2018/EthoGrid/main/images/android-chrome-512x512.png" alt="EthoGrid-ToxMate Logo" width="200">
+  <img src="https://raw.githubusercontent.com/yousaf2018/EthoGrid-Toxmate/main/images/android-chrome-512x512.png" alt="EthoGrid-ToxMate Logo" width="200">
 </p>
 
 ![Tool Overview](https://raw.githubusercontent.com/yousaf2018/EthoGrid/main/images/EthoGridGUI.png)
@@ -153,6 +153,7 @@ This application was developed in the **[Laboratory of Professor Chung-Der Hsiao
 
 
 Distributed under the MIT License. See the `LICENSE` file for more information.
+
 
 
 
