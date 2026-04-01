@@ -17,7 +17,7 @@ Every stage of the EthoGrid_ToxMate pipeline is designed to be **transparent, cu
 
 A step-by-step video guide for installing **EthoGrid_ToxMate** is available on YouTube:
 
-👉 [Watch the installation tutorial](https://www.youtube.com/watch?v=pvYrgtg0WFg)
+[![Watch the installation tutorial](https://img.youtube.com/vi/pvYrgtg0WFg/0.jpg)](https://www.youtube.com/watch?v=pvYrgtg0WFg)
 
 ![Tool Overview](https://github.com/yousaf2018/EthoGrid_ToxMate/blob/main/APP/images/EthoGridGUI.png)
 *A snapshot of the EthoGrid_ToxMate interface showing a video with an overlaid grid, detections with centroids, a behavior legend, and a multi-tank timeline.*
